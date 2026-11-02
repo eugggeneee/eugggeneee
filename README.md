@@ -12,7 +12,7 @@
 
 ---
 
-## A little about me
+## About me
 
 I make Flutter applications, Python bots and automation scripts, websites, and UI/UX for digital products.
 
@@ -47,6 +47,9 @@ I enjoy bringing together **useful functionality**, **clear interfaces**, and **
 
 - 🇬🇧 English
 - 🇷🇺 Русский
+- 🇧🇾 Беларуская
+- 🇺🇦 Українська
+- 🇵🇱 Polski
 
 ---
 
