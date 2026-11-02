@@ -1,8 +1,7 @@
 # Setup
 
-1. Create a public repository named exactly `eugggeneee`.
-2. Upload the contents of this archive to the repository root.
-3. Keep `README.md` at the root. GitHub will display it on your profile.
-4. The hero banner switches between dark and light GitHub themes automatically.
+1. Create a public GitHub repository named `eugggeneee`.
+2. Upload all files and folders from this archive to its root.
+3. Keep `README.md` in the root and preserve the `assets` folder.
 
-The statistics cards and contribution graph are provided by public third-party services, so they may occasionally load slowly or be unavailable.
+The README uses local SVG artwork only. It does not depend on third-party statistics or badge image services.
