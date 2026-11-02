@@ -1,48 +1,59 @@
 <div align="center">
-  <img src="assets/material-light.svg#gh-light-mode-only" alt="Eugene" width="100%" />
-  <img src="assets/material-dark.svg#gh-dark-mode-only" alt="Eugene" width="100%" />
-</div>
-
-<div align="center">
 
 # Eugene
 
-**UI/UX · Flutter · Python · Web**
+### UI/UX · Flutter · Python · Web
 
-Building apps, bots, automations and websites.
+**I build digital things — from mobile apps to automation and websites.**
 
-[GitHub](https://github.com/eugggeneee)
+[GitHub profile](https://github.com/eugggeneee)
 
 </div>
 
 ---
 
-## About
+## A little about me
 
-I make Flutter apps, Python bots and automation scripts, websites, and UI/UX for digital products.
+I make Flutter applications, Python bots and automation scripts, websites, and UI/UX for digital products.
 
-## What I work with
+I enjoy bringing together **useful functionality**, **clear interfaces**, and **thoughtful details**.
 
-| Focus | Tools |
+## My toolkit
+
+| Area | Technologies |
 |:--|:--|
-| Mobile development | Flutter · Dart |
-| Automation | Python |
-| Web | HTML · CSS · JavaScript |
-| Version control | Git · GitHub |
-| Product design | UI/UX |
+| **Mobile** | Flutter · Dart |
+| **Automation** | Python |
+| **Web** | HTML · CSS · JavaScript |
+| **Workflow** | Git · GitHub |
+| **Design** | UI/UX |
 
-## Currently working on
+## Things I enjoy
 
-- Improving a Flutter student journal with schedules, grades and attendance.
-- Exploring UI systems, interaction details and visual polish.
-- Making useful tools, bots and automation scripts.
+- 📱 Building apps that feel clear and comfortable to use.
+- 🎨 Exploring interface design, visual systems, and interaction details.
+- ⚙️ Automating repetitive tasks with scripts and bots.
+- 🌐 Creating websites with a strong focus on presentation and usability.
 
-## Find me
+## A few principles
 
-[GitHub profile](https://github.com/eugggeneee)
+> Keep it useful. Keep it clear. Make the details matter.
+
+- **Clarity over clutter** — every element should have a purpose.
+- **Function before decoration** — good design should make things easier.
+- **Consistency matters** — small details add up to a better experience.
+
+## Languages
+
+- 🇬🇧 English
+- 🇷🇺 Русский
 
 ---
 
 <div align="center">
-  <sub>Designed with a Material 3-inspired tonal system.</sub>
+
+**Thanks for stopping by!**
+
+[Explore my GitHub profile →](https://github.com/eugggeneee)
+
 </div>
