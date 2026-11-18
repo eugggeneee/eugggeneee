@@ -10,7 +10,7 @@ My focus is simple: useful features, clear interactions, and thoughtful details.
 
 | Area | Technologies |
 | :--- | :--- |
-| Mobile | Swift · SwiftUI · Flutter · Dart |
+| Mobile | Flutter · Dart |
 | Web | HTML · CSS · JavaScript |
 | Automation | Python |
 | Design | UI/UX |
